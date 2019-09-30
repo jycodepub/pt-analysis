@@ -1,0 +1,37 @@
+{
+  "name": "Ardisia Dr.",
+  "myProperty": {
+    "id": "0",
+    "address": "17211 Ardisia Dr.",
+    "year": "2001",
+    "stories": 2,
+    "size": 2012,
+    "price": 24000.0
+  },
+  "sampleProperties": [
+    {
+      "id": "1",
+      "address": "Black Locus",
+      "year": "2001",
+      "stories": 2,
+      "size": 2200,
+      "price": 200000.0
+    },
+    {
+      "id": "2",
+      "address": "Black Locus",
+      "year": "2002",
+      "stories": 2,
+      "size": 2400,
+      "price": 210000.0
+    },
+    {
+      "id": "3",
+      "address": "Black Locus",
+      "year": "2003",
+      "stories": 2,
+      "size": 2500,
+      "price": 220000.0
+    }
+  ]
+}
